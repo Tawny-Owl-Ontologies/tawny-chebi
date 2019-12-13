@@ -1,6 +1,6 @@
-(defproject tawny-chebi "1.0.0"
+(defproject tawny-chebi "1.0.0-SNAPSHOT"
   :description "A mavenized version of ChEBI"
-  :dependencies [[uk.org.russet/tawny-owl "1.3.0"]]
+  :dependencies [[uk.org.russet/tawny-owl "2.0.0-SNAPSHOT"]]
   :scm {:url "https://github.com/jaydchan/tawny-chebi.git"
         :name "git"}
   :license {:name "LGPL"
